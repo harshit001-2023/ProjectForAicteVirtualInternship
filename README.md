@@ -7,3 +7,4 @@ Edunet Internship Project : Plant disease prediction using cnn
 
 # Weekly update:
 Week 1: Fetched Plant Disease Data from the Kaggle Dataset
+Week 2: Created a graph of trianing plant data
